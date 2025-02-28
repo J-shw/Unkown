@@ -1,5 +1,5 @@
-# Unkown
-This app 'Unkown' allows import of all health data/metrics from various provides
+# Health Fusion
+Health Fusion allows import of all health data/metrics from various provides
 
 ## Overview
 
